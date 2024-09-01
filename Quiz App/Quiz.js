@@ -14,6 +14,11 @@ const quizData = [
         question: "What is the smallest planet in our solar system?",
         choices: ["Earth", "Mars", "Mercury", "Venus"],
         correct: "Mercury"
+    },
+    {
+        question: "Who is the current President of India?",
+        choices: ["Ramnath Kowind", "Narendra Modi", "Draupadi Murmu", "Pt. Jawaharlal Nehru"],
+        correct: "Draupadi Murmu"
     }
 ];
 
