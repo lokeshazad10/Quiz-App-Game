@@ -12,7 +12,7 @@ A simple and interactive quiz game built using **HTML**, **CSS**, and **JavaScri
 
 ## 🚀 Live Demo
 
-👉 *Add your GitHub Pages or deployment link here if available.*
+👉 (https://lokeshazad10.github.io/Quiz-App-Game/)
 
 ## 🧰 Technologies Used
 
